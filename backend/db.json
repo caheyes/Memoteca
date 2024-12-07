@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Comunicação entre componentes",
+      "autoria": "Caroline",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "A tecnologia tem transformado a forma como vivemos, trabalhamos e nos conectamos com o mundo ao nosso redor. Desde a invenção da roda até a inteligência artificial, cada avanço trouxe inovações que redefiniram nossas possibilidades. Hoje, vivemos em uma era onde a informação está literalmente na ponta dos dedos, acessível a qualquer momento, graças à internet e aos dispositivos móveis.",
+      "autoria": "Caroline",
+      "modelo": "modelo3"
+    }
+  ]
+}
