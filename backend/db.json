@@ -2,15 +2,66 @@
   "pensamentos": [
     {
       "id": 2,
-      "conteudo": "Comunicação entre componentes",
-      "autoria": "Caroline",
-      "modelo": "modelo2"
+      "conteudo": "Olá estou editando essa info",
+      "autoria": "Caroline edit",
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "A tecnologia tem transformado a forma como vivemos, trabalhamos e nos conectamos com o mundo ao nosso redor. Desde a invenção da roda até a inteligência artificial, cada avanço trouxe inovações que redefiniram nossas possibilidades. Hoje, vivemos em uma era onde a informação está literalmente na ponta dos dedos, acessível a qualquer momento, graças à internet e aos dispositivos móveis.",
-      "autoria": "Caroline",
-      "modelo": "modelo3"
+      "autoria": "caroline",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "conteudo": "teste 1",
+      "autoria": "teste 1",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "teste 2",
+      "autoria": "teste 2",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "teste 3",
+      "autoria": "teste 3",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "teste 4",
+      "autoria": "teste 4",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "teste 6",
+      "autoria": "teste 6",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "teste 7",
+      "autoria": "teste 7",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "Muito bom. Seu projeto está fantástico!",
+      "autoria": "caroline souza",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 10
     }
   ]
 }
